@@ -1,0 +1,22 @@
+.simul-block {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+}
+.simul-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.simul-buttons-actions button {
+  margin-right: 5px;
+}
+.simul-coords {
+  padding: 0;
+  margin: 5px 0 2px 0;
+  font-size: 0.8em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-family: 'Courier New', Courier, monospace;
+}
